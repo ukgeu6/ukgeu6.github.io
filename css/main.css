@@ -242,6 +242,7 @@ header nav ul .selected{
 
 
 .services .services_list{
+	font-family: "raleway-bold", arial;
     width: 717px;
     float: right;
 }
